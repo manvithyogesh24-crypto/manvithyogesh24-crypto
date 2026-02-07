@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning Java , python , UI/UX using Figma , Power-BI , Excel , AI using Business Analytics and Data Analytics<br>Open source projects<br>Collaboration with design, and business based works<br>python, AI based business analysis<br>good at designing and a very good team person
+• Learning Java , python , UI/UX using Figma , Power-BI , Excel , AI using Business Analytics and Data Analytics<br>• Open source projects<br>• Collaboration with design, and business based works<br>• python, AI based business analysis<br>• Good at designing and a very good team person
 
 
 ## 🌐 Socials:
